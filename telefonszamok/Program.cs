@@ -167,6 +167,22 @@ namespace menukez
                 else if (valasz == "8")
                 {
                     //8
+                    Console.Clear();
+                    foreach (var telefonszam in telefonszamok)
+                    {
+                        bool jo = false;
+                        foreach (char betu in telefonszam)
+                        {
+                            if (!char.IsLetterOrDigit(betu))
+                            {
+                                jo = true;
+                            }
+                        }
+                        if (jo == true)
+                        {
+                            Console.WriteLine(telefonszam);
+                        }
+                    }
                 }
                 else
                 {
