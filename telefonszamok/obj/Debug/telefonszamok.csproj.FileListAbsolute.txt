@@ -1,0 +1,8 @@
+C:\Users\szaboko\source\repos\telefonszamok\telefonszamok\bin\Debug\telefonszamok.exe.config
+C:\Users\szaboko\source\repos\telefonszamok\telefonszamok\bin\Debug\telefonszamok.exe
+C:\Users\szaboko\source\repos\telefonszamok\telefonszamok\bin\Debug\telefonszamok.pdb
+C:\Users\szaboko\source\repos\telefonszamok\telefonszamok\obj\Debug\telefonszamok.csproj.AssemblyReference.cache
+C:\Users\szaboko\source\repos\telefonszamok\telefonszamok\obj\Debug\telefonszamok.csproj.CoreCompileInputs.cache
+C:\Users\szaboko\source\repos\telefonszamok\telefonszamok\obj\Debug\telefonszamok.exe
+C:\Users\szaboko\source\repos\telefonszamok\telefonszamok\obj\Debug\telefonszamok.pdb
+C:\Users\szaboko\source\repos\telefonszamok\telefonszamok\obj\Debug\telefonszamok.exe.config

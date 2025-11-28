@@ -12,9 +12,9 @@ namespace menukez
         {
             List<string> telefonszamok = new List<string>();
             telefonszamok.Add("+36202275895");
-            telefonszamok.Add(" 06203568987");
-            telefonszamok.Add(" (06)20/2558222");
-            telefonszamok.Add(" 203568978+");
+            telefonszamok.Add("06203568987");
+            telefonszamok.Add("(06)20/2558222");
+            telefonszamok.Add("203568978+");
             telefonszamok.Add("nullahat202289578548");
             while (true)
             {
@@ -36,6 +36,11 @@ namespace menukez
                 else if (valasz == "1")
                 {
                     //1
+                    Console.Clear();
+                    foreach (string telefonszam in telefonszamok)
+                    {
+                        Console.WriteLine(telefonszam);
+                    }
                 }
                 else if (valasz == "2")
                 {
