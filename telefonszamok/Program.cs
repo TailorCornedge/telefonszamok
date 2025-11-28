@@ -65,6 +65,20 @@ namespace menukez
                 else if (valasz == "3")
                 {
                     //3
+                    Console.Clear();
+                    foreach (var telefonszam in telefonszamok)
+                    {
+                        bool jo = false;
+                        
+                            if (telefonszam.Length==12)
+                            {
+                                jo = true;
+                        }
+                        if (jo == true)
+                        {
+                            Console.WriteLine(telefonszam);
+                        }
+                    }
                 }
                 else if (valasz == "4")
                 {
